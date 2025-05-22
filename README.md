@@ -1,2 +1,1 @@
-# LeafBridge-Pro
-LeafBridge Pro V.4.0.0
+ V.4.0.0
